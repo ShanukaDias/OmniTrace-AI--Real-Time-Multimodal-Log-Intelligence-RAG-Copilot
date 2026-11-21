@@ -1,0 +1,2 @@
+# OmniTrace AI: Real-Time Multimodal Log Intelligence & RAG Copilot
+Engineered an end-to-end intelligent log analysis and retrieval-augmented generation (RAG) platform leveraging Snowflake, Snowpark Python, and Snowflake Cortex AI. Built automated ELT pipelines with Snowpark to ingest and transform unstructured logs, implemented native vector embeddings for semantic search, and deployed an LLM-powered conversational copilot to diagnose system anomalies instantly.
